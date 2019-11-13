@@ -1,6 +1,6 @@
 # HotelApp
 
-******MASTER BRANCH APP REQUIRES A DATABASE********
+******MASTER BRANCH APP REQUIRES A DATABASE******
 
 Developed a HotelApp to get accustomed to Data structures.
 

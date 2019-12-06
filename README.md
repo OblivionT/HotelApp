@@ -2,6 +2,8 @@
 
 ******MASTER BRANCH APP REQUIRES A DATABASE******
 
+*This project was made in my Second year of University
+
 Developed a HotelApp to get accustomed to Data structures.
 
 Includes following Data structures:

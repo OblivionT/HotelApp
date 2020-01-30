@@ -33,3 +33,6 @@ Admin Panel
 Hotel Operations
 
 ![](Images/HotelApp%20Hotel%20Operations.png)
+
+
+Kullanılan Teknolojiler ve araçlar: C#,Visual Studio, Microsoft SQL
